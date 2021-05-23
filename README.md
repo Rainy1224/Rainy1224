@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rainy1224
-- 👀 I’m interested in playing video games, my favorite is zelda.
-- 🌱 I’m currently learning coding and japanese.
+- 👀 I’m interested in playing video games, my favorite is Zelda Botw.
+- 🌱 I’m currently learning C and Japanese.
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
