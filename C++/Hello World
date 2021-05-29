@@ -1,7 +1,12 @@
 #include <iostream>
 
+using std::cout;
+using std::endl;
+using std::getc;
+
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::getchar();
+    cout << "Hello World!" << endl;
+    getchar();
+    
 }
